@@ -4,6 +4,7 @@
      alt="SwanningAboutSolutionsLogo"
      style="float: center; margin-right: 10px;" />
 </p>
+
 ### A Digital Futures Project Submission
 <p style="text-align:center;">
 <img src="https://github.com/digital-futures-academy/DataScienceMasterResources/blob/main/Resources/datascience-notebook-header.png?raw=true"
